@@ -1,0 +1,1 @@
+# java-program-that-accepts-three-integers-from-the-user-and-print-Equal-if-all-three-are-equal-an
